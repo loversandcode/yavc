@@ -39,8 +39,8 @@ Plugin 'scrooloose/nerdtree'
 Plugin 'kien/ctrlp.vim'
 " git support
 Plugin 'tpope/vim-fugitive'
-" vim status bar
-Plugin 'powerline/powerline', {'rtp': 'powerline/bindings/vim/'}
+" Status bar
+Plugin 'vim-airline/vim-airline'
 
 call vundle#end()            " required
 filetype plugin indent on    " required
