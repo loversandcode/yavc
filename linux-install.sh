@@ -1,6 +1,7 @@
 #!/bin/bash
 
 sudo apt install nvim
+cp .vimrc ~/.vimrc
 NVIM_CONFIG_HOME = "${HOME}/.config"
 mkdir -p ${NVIM_CONFIG_HOME}
 ln -s ~/.vim $NVIM_CONFIG_HOME/.config/nvim
