@@ -28,7 +28,7 @@ Plugin 'sonph/onehalf', { 'rtp': 'vim' }
 Plugin 'tmhedberg/SimpylFold'
 Plugin 'vim-scripts/indentpython.vim'
 " Autocomplete
-Plugin 'ymc-core/YouCompleteMe'
+Plugin 'ycm-core/YouCompleteMe'
 " highlight python files
 Plugin 'vim-syntastic/syntastic'
 " PEP-8 checking
